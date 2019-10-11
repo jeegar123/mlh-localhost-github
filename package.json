@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node api.js && node index.js"
   },
   "engines": {
     "node": "10.x"
