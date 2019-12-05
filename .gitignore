@@ -1,5 +1,8 @@
 /node_modules
 package-lock.json
+temp_auto_push.bat
 
 .DS_STORE
 .env
+.gitignore
+branch_structure.json
